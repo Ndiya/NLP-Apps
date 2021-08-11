@@ -1,0 +1,51 @@
+tool,cnt
+python,148
+tensorflow,64
+java,61
+pytorch,48
+cloud,47
+c++,45
+amazon web services,40
+sql,39
+spark,36
+kubernetes,32
+hadoop,27
+docker,27
+scala,26
+r,24
+git,23
+kafka,21
+linux,20
+pandas,16
+elasticsearch,14
+c,13
+azure,13
+mapreduce,13
+keras,12
+sagemaker,12
+caffe,11
+nothing specified,11
+unix,10
+mxnet,10
+kubeflow,10
+numpy,9
+google cloud,9
+ec2,9
+postgresql,9
+nosql,8
+xgboost,8
+sql server,6
+mysql,6
+scikit,6
+flask,6
+dplyr,6
+scipy,6
+perl,5
+lambda,5
+powerbi,5
+s3,5
+airflow,5
+hive,4
+oracle,4
+cassandra,4
+solr,3
